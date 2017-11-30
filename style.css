@@ -30,6 +30,15 @@
 .tartalom {
     background-color: lightgrey;
     height: 1000px; /*ez csak azért kell,h a scrollbar megjelenjen*/
-    
+    zoom: 0.5;
 }
 
+
+
+
+
+
+
+
+
+/*#learnabout  box-modell https://www.w3schools.com/css_boxmodel.asp*/
