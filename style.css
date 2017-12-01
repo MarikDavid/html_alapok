@@ -30,7 +30,8 @@
 .tartalom {
     background-color: lightgrey;
     height: 1000px; /*ez csak azért kell,h a scrollbar megjelenjen*/
-    zoom: 0.5;
+   /* bizonyos css property-ket nm ajánlott használni, mert nem minden böngészőben ismeri. caniuse.com weboldallal ellenőrizhetjük */
+    /*zoom: 0.1;*/
 }
 
 
